@@ -107,7 +107,7 @@ Google's monetization model is based on collecting and selling your data. Graphe
 If you get an Iphone, it is becoming extremely difficult to register an icloud account without a real (non-VoIP) phone number. It's not impossible, but much more difficult. Consider this before you make your purchase.
 
 
-__How To Leave the Current Financial System__
+## How To Leave the Current Financial System
 
 IBC- What is IBC? the Infinite Banking Concept is a wealth-flow management system that doesn't use the traditional banking system. The traditional banking system is a major contributor to the creation of cash from thin air. It contributes to the problem of fractional-reserve banking. IBC helps to create a warehouse for you to store your cash outside of the banking system that is arbitrarily manipulated by the central banks. Individuals can use it as an alternative the normal retirement schemes that are seen as the only way forward in a central banking controlled world (401k's, IRA's, etc.). If you don't participate in the normal banking infrastructure, you can't contribute to the growing problem, which in turn gives the central bank much less power over you.
 
