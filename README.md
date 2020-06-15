@@ -9,24 +9,26 @@ Don't stand around and talk about it. Act. You don't need to worry about convert
 __Literary Resources__
 https://mises.org/books-library - Free books in many different formats including audio books and PDF versions.
 
-https://www.privacytools.io/
-https://www.torproject.org/
-https://mises.org/
-https://cryptoanarchy.wiki/
-https://cryptoanarchy.wiki/getting-started/what-is-crypto-anarchy
-https://ssd.eff.org/
-https://silent-pocket.com/ Faraday bags ranging from all sizes and for different use-cases.
-https://fried.com/privacy
-https://geti2p.net/en/ 
-https://www.operational-security.com/thirty-day-security-challenge/
-https://system76.com/
-https://keepassxc.org/
-https://www.reddit.com/r/GoldandBlack/
-https://ddlegio.com/
-https://vimeo.com/272995752
-https://protonmail.com/
-https://tutanota.com/
-https://www.activism.net/cypherpunk/crypto-anarchy.html
+- https://www.privacytools.io/
+- https://www.torproject.org/
+- https://mises.org/
+- https://cryptoanarchy.wiki/
+- https://cryptoanarchy.wiki/getting-started/what-is-crypto-anarchy
+- https://ssd.eff.org/
+- https://silent-pocket.com/ Faraday bags ranging from all sizes and for different use-cases.
+- https://fried.com/privacy
+- https://geti2p.net/en/ 
+- https://www.operational-security.com/thirty-day-security-challenge/
+- https://system76.com/
+- https://keepassxc.org/
+- https://www.reddit.com/r/GoldandBlack/
+- https://ddlegio.com/
+- https://vimeo.com/272995752
+- https://protonmail.com/
+- https://tutanota.com/
+- https://www.activism.net/cypherpunk/crypto-anarchy.html
+- https://antiwar.com/
+- https://www.lewrockwell.com/
 
 
 
@@ -151,7 +153,7 @@ https://thatoneprivacysite.net/
 Why does obtaining crypto via non-kyc matter?
 Bitcoin is the hardest currency on the planet. A Government cannot inflate the value of Bitcoin away. They cannot deduct taxes directly from your bitcoin wallet or mandate they control all of the supply (https://en.wikipedia.org/wiki/Executive_Order_6102). They cannot wage arbitrary wars if they do not control the money supply. If there is a potential way for the government's to try and control Bitcoin, either through seizure or denial-of-service, it will be through surveillance. Non-KYC bitcoin is the only way to obtain self-sovereignty. Below are some resources that give potential options for you to obtain non-kyc bitcoin. Use this to your advantage. Size up your threat model and become self-sovereign.
 
-## Obtaining Bitcoin Anonymously.
+## Obtaining Bitcoin Anonymously
 
 
 Register for https://localmonero.co
