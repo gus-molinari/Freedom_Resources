@@ -7,7 +7,7 @@ This compiled list is a guide for the person who wants to avoid participating in
 Don't stand around and talk about it. Act. You don't need to worry about converting someone to your side, just go out and do it. If it's functional, people will realize it. It doesn't need to be overnight. Better yourself and others will see that.
 
 __Literary Resources__
-https://mises.org/books-library - Free books in many different formats including audio books and PDF versions.
+- https://mises.org/books-library - Free books in many different formats including audio books and PDF versions.
 
 - https://www.privacytools.io/
 - https://www.torproject.org/
