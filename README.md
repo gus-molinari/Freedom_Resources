@@ -57,6 +57,10 @@ TOR obfuscates your browsing traffic. The browser's goal is to pbfuscate your br
 
 http://darkfailllnkf4vf.onion/
 
+__Public Data Scrubbing__
+Data brokers and data marketers work to sell your information to profit from your data. History proves that they are activiely working with the state to undermine our autonomy. Below is a pdf workbook that aims to help label and give solutions to opt-out of their data collection. The author, Bazzell starts with insisting on a credit freeze at the major credit bureaus (We know they aren't to be the trusted arbiters of our data)
+- https://inteltechniques.com/data/workbook.pdf
+This process is tedious but first you should aim for the largest data brokers. Thus will help prevent your data from re-populating on the newest data broker that enters on the scene as most of this information is taken from the big players in the space.
 
 ## Secure Workstation Techniques
 Secure your workstation with Full Disk Encryption. If using a debian-based distribution, LUKS is the specific software I am suggesting. Full Disk Encryption encrypts the entire system partition. This prevents attackers who want access to the data on your storage device from accessing it without permission.
