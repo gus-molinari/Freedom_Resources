@@ -2,19 +2,40 @@
 These are compiled resources for people that want to live a free life without the involvement of the state coming from the perspective of a Austro-Libertarian macro-economic world view, specifically with a Rothbardian approach (Anarcho-Capitalism). This compiled list of resources aim to address ways for individuals to live private sovereign lives, outside the arms of the state.
 
 
+This compiled list is a guide for the person who wants to avoid participating in the current system. These are potential solutions. DO YOUR OWN RESEARCH. These are strategies that are available to people today. This is focused on North America but many of these strategies are applicable everywhere.
+
+Don't stand around and talk about it. Act. You don't need to worry about converting someone to your side, just go out and do it. If it's functional, people will realize it. It doesn't need to be overnight. Better yourself and others will see that.
 
 __Literary Resources__
-https://mises.org/books-library
+https://mises.org/books-library - Free books in many different formats including audio books and PDF versions.
 
-Free books in many different formats including audio books and PDF versions.
+https://www.privacytools.io/
+https://www.torproject.org/
+https://mises.org/
+https://cryptoanarchy.wiki/
+https://cryptoanarchy.wiki/getting-started/what-is-crypto-anarchy
+https://ssd.eff.org/
+https://silent-pocket.com/ Faraday bags ranging from all sizes and for different use-cases.
+https://fried.com/privacy
+https://geti2p.net/en/ 
+https://www.operational-security.com/thirty-day-security-challenge/
+https://system76.com/
+https://keepassxc.org/
+https://www.reddit.com/r/GoldandBlack/
+https://ddlegio.com/
+https://vimeo.com/272995752
+https://protonmail.com/
+https://tutanota.com/
+https://www.activism.net/cypherpunk/crypto-anarchy.html
 
-*where to begin*
+
+
+__Why?__
+The only way around a system built to keep people subjugated is to go around this system. Don't ask permission.
+
+*Where to begin*
 https://preview.redd.it/8mqrhis41m6z.jpg?auto=webp&s=460e508e17e37ec92aff9d93dd34f160db3d5dfb
 
-
-
-__Why Do This__
-The only way around a system built to keep people subjugated is to go around this system. Don't ask permission.
 
 ## Online Browsing Techniques
 - Use open source software
@@ -30,7 +51,6 @@ There are many different places to start. https://www.reddit.com/r/FindMeADistro
 __TOR__
 https://www.torproject.org/
 TOR obfuscates your browsing traffic. The browser's goal is to pbfuscate your browsing and make your unique browser fingerprint look like every other TOR user.
-
 
 
 http://darkfailllnkf4vf.onion/
@@ -49,10 +69,48 @@ __Email__
 Protonmail
 Tutanota
 
+__Messaging Applications__
+Signal - requires a phone number. The danger behind giving a phone number is that you end up giving away a personal identifier. Your phone number can be used to discover personal details about you from many people search sites such as reversephonelookup.com
+A VoIP number works with signal. 
+
+Wire - You can create an account with a phone number or an email (burner email preferably)
+
+Wickr - no phone number or email needed.
+
+
+
+__Why VoIP?__
+Phone porting is a relativley new concern that plagues our digital lives. With the desire for services to avoid spam issues, they require phone numbers to verify that you are a human. It is trivial for someone to port a phone number from a specific phone provider. Social engineering is a huge concern, and it takes a short amount of time to port a phone number. The ways to avoid phone porting issues are:
+VoIP (Phone numbers can't be ported if there is no phone provider to port them from)
+Anonymous Phone numbers not attached to your identity
+
+VoIP services to consider:
+Google Voice
+MySudo (9 phone numbers for 15$/month) You can use a different phone number for different use cases: spam, travel, SMS 2FA for online services, banking, friends, etc.
+
+Anonymous Phone purchases
+- Buy an unlocked phone in person with cash
+- Buy a sim card in person with cash
+- Pay for a T-Mobile pay as you go plan in person with cash
+
+You now have a phone number that you can re-up with in-store payments. The type of phone you get will also play a role in how you maintain an anonymous phone. You should never use your regular phone number to give to ANYONE. friends. family, businesses, and work will leak this informtion and once its leaked, you're whole anonymous phone strategy is ruined.
+
+The operating system you use on your mobile device plays a crucial role in you maintaining your digital anonymity.
+
+__Mobile Operating Systems__
+Google's monetization model is based on collecting and selling your data. Graphene and Lineage are de-googled android operating systems focused on privacy.
+- Graphene OS
+- Lineage OS
+
+If you get an Iphone, it is becoming extremely difficult to register an icloud account without a real (non-VoIP) phone number. It's not impossible, but much more difficult. Consider this before you make your purchase.
+
 
 __How To Leave the Current Financial System__
 
 IBC- What is IBC? the Infinite Banking Concept is a wealth-flow management system that doesn't use the traditional banking system. The traditional banking system is a major contributor to the creation of cash from thin air. It contributes to the problem of fractional-reserve banking. IBC helps to create a warehouse for you to store your cash outside of the banking system that is arbitrarily manipulated by the central banks. Individuals can use it as an alternative the normal retirement schemes that are seen as the only way forward in a central banking controlled world (401k's, IRA's, etc.). If you don't participate in the normal banking infrastructure, you can't contribute to the growing problem, which in turn gives the central bank much less power over you.
+
+
+IBC is based on whole-term life insurance policies. This is also a great privacy preserving technique. When you want to use the money inside your policy in regards to a policy loan, there is no credit pull on you. There are no questions asked as to what you are using the money for. The money arrives in a check to you by the next business day. 
 
 Bob Murphy and Carlos Lara do a great podcast about ways to secede from the current banking regime.
 https://lara-murphy.com/
@@ -67,6 +125,7 @@ Bob Murphy show
 Lara-Murphy Report
 Scott Horton Show
 Human Action Podcast
+Privacy, Security, and OSINT Show
 
 
 
@@ -148,3 +207,16 @@ Private online purchases
 https://openbazaar.org/
 
 https://www.erowid.org/
+
+
+## Free Market Health Care Solutions
+Despite the regulation that exists, there are still ways to have coverage without participating in the system perpetuating the growth of the state. 
+
+Health Sharing Ministries in conjunction with a direct primary care provider offers a potential solution for health care.
+Health Sharing Ministries are relgious based organizations, so there may be coverage that they choose not to support as it goes against their beliefs. Do your own research.
+
+https://www.dpcfrontier.com/mapper/
+https://www.samaritanministries.org/
+https://www.chministries.org/
+https://www.trinityhealthshare.org/
+
