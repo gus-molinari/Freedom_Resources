@@ -218,7 +218,12 @@ JoinMarket https://github.com/JoinMarket-Org/joinmarket-clientserver You can mak
 
 
 
+Open source hardware- Pine64, Raspberry Pi, Open source hardware laptops including system76, pine64 laptops
+Open Source Firmware- coreboot
 
+
+
+Private online purchases
 
 
 
