@@ -1,4 +1,4 @@
-# Freedom_Resources
+# Freedom Resources
 These are compiled resources for people that want to live a free life without the involvement of the state coming from the perspective of a Austro-Libertarian macro-economic world view, specifically with a Rothbardian approach (Anarcho-Capitalism). This compiled list of resources aim to address ways for individuals to live private sovereign lives, outside the arms of the state.
 
 
@@ -29,11 +29,12 @@ __Literary Resources__
 - https://www.activism.net/cypherpunk/crypto-anarchy.html
 - https://antiwar.com/
 - https://www.lewrockwell.com/
+- https://towardsliberty.com/
 
 
 
 __Why?__
-The only way around a system built to keep people subjugated is to go around this system. Don't ask permission.
+The only way through a system built to keep people subjugated is to go around this system. Don't ask permission.
 
 *Where to begin*
 https://preview.redd.it/8mqrhis41m6z.jpg?auto=webp&s=460e508e17e37ec92aff9d93dd34f160db3d5dfb
@@ -95,6 +96,10 @@ Google Voice
 MySudo (9 phone numbers for 15$/month) You can use a different phone number for different use cases: spam, travel, SMS 2FA for online services, banking, friends, etc.
 
 Anonymous Phone purchases
+- Buy a flip phone from a big box store with burner sms with cash
+
+or
+
 - Buy an unlocked phone in person with cash
 - Buy a sim card in person with cash
 - Pay for a T-Mobile pay as you go plan in person with cash
@@ -161,10 +166,13 @@ Bitcoin is the hardest currency on the planet. A Government cannot inflate the v
 
 
 Register for https://localmonero.co
-I would suggest using the onion site via TOR: http://localmonerogt7be.onion
-After you create an account, you can buy monero via mail. After you obtain XMR, you can then convert it via a shifting service like:
+Hidden service is heavily suggested: http://localmonerogt7be.onion
+After you create a burner account, you can buy monero via mail. After you obtain XMR, you can then convert it via a shifting service like:
+https://simpleswap.io
+http://xchangen24yn24b6.onion/
 https://changenow.io/
 https://www.morphtoken.com/
+
 
 
 You can also buy btc through Agora Desk http://agoradeska6jfxpf.onion
@@ -178,19 +186,25 @@ https://github.com/cointastical/P2P-Trading-Exchanges/
 
 
 
+Great resource for obtaining BTC without KYC
+https://bitcoinqna.github.io/noKYConly/
+
+
+
+
 Bitcoin mining to obtain non-kyc Bitcoin
 https://diverterbtc.keybase.pub/Mining%20for%20the%20Streets%20(4)%20(1).pdf
 
 
 
-__Mixers__
+__Coinjoins__
 
 Why use mixers?
 You use a mixer to obfuscate the path from where you personally obtained your bitcoin. There is plausible deniability created by mixing your Bitcoin UTXOs.
 
 Bitcoin Mixers
-Wasabi https://www.wasabiwallet.io/
-Samourai Wallet https://samouraiwallet.com/
+Wasabi https://www.wasabiwallet.io/   
+Samourai Wallet https://samouraiwallet.com/     http://samouraivlsuevop.onion/
 JoinMarket https://github.com/JoinMarket-Org/joinmarket-clientserver You can make more Bitcoin by offering your Bitcoin up for liquidity in this mixing pool.
 
 Monero
@@ -216,7 +230,9 @@ https://www.erowid.org/
 
 
 ## Free Market Health Care Solutions
-Despite the regulation that exists, there are still ways to have coverage without participating in the system perpetuating the growth of the state. 
+Despite the regulation that exists, there are still ways to receive medical coverage without participating in the system perpetuating the growth of the state. 
+
+Direct Primary Care providers offers a way for you to pay a subscription to your doctor directly. This greatly cuts the cost for basic medical care.
 
 Health Sharing Ministries in conjunction with a direct primary care provider offers a potential solution for health care.
 Health Sharing Ministries are relgious based organizations, so there may be coverage that they choose not to support as it goes against their beliefs. Do your own research.
