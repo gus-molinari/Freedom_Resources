@@ -6,9 +6,8 @@ This compiled list is a guide for the person who wants to avoid participating in
 
 Don't stand around and talk about it. Act. You don't need to worry about converting someone to your side, just go out and do it. If it's functional, people will realize it. It doesn't need to be overnight. Better yourself and others will see that.
 
-__Literary Resources__
+## Online Resources
 - https://mises.org/books-library - Free books in many different formats including audio books and PDF versions.
-
 - https://www.privacytools.io/
 - https://www.torproject.org/
 - https://mises.org/
@@ -22,6 +21,7 @@ __Literary Resources__
 - https://system76.com/
 - https://keepassxc.org/
 - https://www.reddit.com/r/GoldandBlack/
+- https://defcad.com/       Firearm CAD distribution site
 - https://ddlegio.com/
 - https://vimeo.com/272995752
 - https://protonmail.com/
@@ -29,7 +29,13 @@ __Literary Resources__
 - https://www.activism.net/cypherpunk/crypto-anarchy.html
 - https://antiwar.com/
 - https://www.lewrockwell.com/
-- https://towardsliberty.com/
+- https://towardsliberty.com/economics    Agorism an especially important topic in this case
+- http://wlchatc3pjwpli5r.onion     Wikileaks Onion Site
+- https://bitcoinqna.github.io/noKYConly/     Another resouce for btaining BTC without KYC
+- https://diverterbtc.keybase.pub/Mining%20for%20the%20Streets%20(4)%20(1).pdf      Bitcoin mining to obtain non-kyc Bitcoin
+- https://github.com/maduce/fosscad-repo    CAD designs for 3-D prints
+- https://fosscad.org/fc/cad/  More CAD designs for 3-D prints
+- https://ghostguns.com/       80% lower recievers
 
 
 
@@ -37,7 +43,7 @@ __Why?__
 The only way through a system built to keep people subjugated is to go around this system. Don't ask permission.
 
 *Where to begin*
-https://preview.redd.it/8mqrhis41m6z.jpg?auto=webp&s=460e508e17e37ec92aff9d93dd34f160db3d5dfb
+https://i.redd.it/cobqibegg0sy.jpg
 
 
 ## Online Browsing Techniques
@@ -49,13 +55,13 @@ There are many different places to start. https://www.reddit.com/r/FindMeADistro
 - Use open source password managers
   - use strong uniquely generated passwords for each account
   - use uniquely generated usernames for each account (where applicable)
-  - use uniquley generated emails for each account (for example: https://simplelogin.io/, https://anonaddy.com/, https://33mail.com/ )
+  - use uniquley generated emails for each account with mail forwarding services (for example: https://simplelogin.io/)
 
 __TOR__
 https://www.torproject.org/
-TOR obfuscates your browsing traffic. The browser's goal is to pbfuscate your browsing and make your unique browser fingerprint look like every other TOR user.
+TOR obfuscates your browsing traffic. The browser's goal is to obfuscate your browsing and make your unique browser fingerprint look like every other TOR user.
 
-
+Directory for a few sites including grey market places
 http://darkfailllnkf4vf.onion/
 
 __Public Data Scrubbing__
@@ -64,47 +70,51 @@ Data brokers and data marketers work to sell your information to profit from you
 This process is tedious but first you should aim for the largest data brokers. Thus will help prevent your data from re-populating on the newest data broker that enters on the scene as most of this information is taken from the big players in the space.
 
 ## Secure Workstation Techniques
-Secure your workstation with Full Disk Encryption. If using a debian-based distribution, LUKS is the specific software I am suggesting. Full Disk Encryption encrypts the entire system partition. This prevents attackers who want access to the data on your storage device from accessing it without permission.
+Secure your workstation with Full Disk Encryption. Full Disk Encryption encrypts the entire system partition. This can prevent attackers who want access to the data without your permission.
 
-Using Veracrypt you can create encrypted files and volumes for your personal device (https://www.veracrypt.fr/en/Home.html)
+Using Veracrypt you can create encrypted files and volumes on your personal device (https://www.veracrypt.fr/en/Home.html)
 This prevents access to the data without proper permissions.
 
 ## Secure Communication Channels
-Secure Communication should focus on zero-knowledge end-to-end encryption. If your communications are stored on a server, you want to make sure only you and your intended recipent can decrypt it. 
+Secure Communication should focus on zero-knowledge end-to-end encryption. If your communications are stored on a server, you want to make sure only you and your intended recipent can decrypt it. If your communications are not zero knowledge end to end encrypted and using open source software, assume there is backdoor access to your communications. Avoid plaintext communications at all costs.
+
+
 __Email__
 
 Protonmail
 Tutanota
 
 __Messaging Applications__
-Signal - requires a phone number. The danger behind giving a phone number is that you end up giving away a personal identifier. Your phone number can be used to discover personal details about you from many people search sites such as reversephonelookup.com
+- Signal - requires a phone number. The danger behind giving a phone number is that you end up giving away a personal identifier. Your phone number can be used to discover personal details about you from many people search sites such as reversephonelookup.com
 A VoIP number works with signal. 
 
-Wire - You can create an account with a phone number or an email (burner email preferably)
-
-Wickr - no phone number or email needed.
+- Wire - You can create an account with a phone number or an email (burner email preferably)
+- Wickr - no phone number or email needed.
 
 
 
 __Why VoIP?__
 Phone porting is a relativley new concern that plagues our digital lives. With the desire for services to avoid spam issues, they require phone numbers to verify that you are a human. It is trivial for someone to port a phone number from a specific phone provider. Social engineering is a huge concern, and it takes a short amount of time to port a phone number. The ways to avoid phone porting issues are:
-VoIP (Phone numbers can't be ported if there is no phone provider to port them from)
+VoIP (Phone numbers can't be ported if there is no phone provider to port them from) (_not end to end encrypted_)
+
+or
+
 Anonymous Phone numbers not attached to your identity
 
 VoIP services to consider:
 Google Voice
-MySudo (9 phone numbers for 15$/month) You can use a different phone number for different use cases: spam, travel, SMS 2FA for online services, banking, friends, etc.
+MySudo (up to 9 phone numbers for 15$/month) You can use a different phone number for different use cases: spam, travel, SMS 2FA for online services, banking, friends, etc.
 
 Anonymous Phone purchases
-- Buy a flip phone from a big box store with burner sms with cash
+- Buy a flip phone from a big box store with cash
 
 or
 
 - Buy an unlocked phone in person with cash
-- Buy a sim card in person with cash
-- Pay for a T-Mobile pay as you go plan in person with cash
+- Buy a sim card in person with cash (there are many different choices available that you can buy in person with cash)
+- Pay for a pay as you go plan in person with cash
 
-You now have a phone number that you can re-up with in-store payments. The type of phone you get will also play a role in how you maintain an anonymous phone. You should never use your regular phone number to give to ANYONE. friends. family, businesses, and work will leak this informtion and once its leaked, you're whole anonymous phone strategy is ruined.
+You now have a phone number that you can top up with in-store payments. The type of phone you get will also play a role in how you maintain an anonymous phone. You should never give your mobile phone number to ANYONE. friends. family, businesses, and your employer will leak this informtion and once its leaked, your entire anonymous phone strategy is ruined.
 
 The operating system you use on your mobile device plays a crucial role in you maintaining your digital anonymity.
 
@@ -113,7 +123,7 @@ Google's monetization model is based on collecting and selling your data. Graphe
 - Graphene OS
 - Lineage OS
 
-If you get an Iphone, it is becoming extremely difficult to register an icloud account without a real (non-VoIP) phone number. It's not impossible, but much more difficult. Consider this before you make your purchase.
+If you get an Iphone, it is becoming extremely difficult to register an icloud account without a real (non-VoIP) phone number. It's not impossible, but much more difficult. Consider this before you make a purchase.
 
 
 ## How To Leave the Current Financial System
@@ -131,24 +141,19 @@ https://infinitebanking.org/
 
 Podcasts focused on freedom and strategies for a free life from the state
 
-tom wood's podcast
-Bob Murphy show
-Lara-Murphy Report
-Scott Horton Show
-Human Action Podcast
-Privacy, Security, and OSINT Show
+- Tom wood's podcast
+- Bob Murphy show
+- Lara-Murphy Report
+- Scott Horton Show
+- Human Action Podcast
+- Privacy, Security, and OSINT Show
+- Tales From the Crypt
+- Stephan Livera Podcast
 
 
 
-Website's Focused on Implementing Change
-
-Defdist
-Wikileaks
-Privacytools.io
-
-
-VPN's
-There are many sites out there that offer recommendations for Virtual Private Network services. That one Privacy Guy does a good job at trying to remain neautral in his reviews. Consider VPN's that contribute to privacy preserving causes. 
+__VPN's__
+There are many sites out there that offer recommendations for Virtual Private Network services. That one Privacy Guy does a good job at trying to remain neutral in his reviews. Consider VPN's that contribute to privacy preserving causes. 
 Consider anonymous payment for your VPN service as you now take the privacy concern from your ISP and shift it to the VPN provider. Even if the VPN provider is malicious, an anonymous payment will further segregate your identity from your VPN account.
 
 https://thatoneprivacysite.net/
@@ -156,14 +161,12 @@ https://thatoneprivacysite.net/
 
 
 
-
-
-
+## Obtaining Bitcoin Anonymously
 Why does obtaining crypto via non-kyc matter?
 Bitcoin is the hardest currency on the planet. A Government cannot inflate the value of Bitcoin away. They cannot deduct taxes directly from your bitcoin wallet or mandate they control all of the supply (https://en.wikipedia.org/wiki/Executive_Order_6102). They cannot wage arbitrary wars if they do not control the money supply. If there is a potential way for the government's to try and control Bitcoin, either through seizure or denial-of-service, it will be through surveillance. Non-KYC bitcoin is the only way to obtain self-sovereignty. Below are some resources that give potential options for you to obtain non-kyc bitcoin. Use this to your advantage. Size up your threat model and become self-sovereign.
 
-## Obtaining Bitcoin Anonymously
 
+How to change fiat directly to crypto:
 
 Register for https://localmonero.co
 Hidden service is heavily suggested: http://localmonerogt7be.onion
@@ -176,24 +179,12 @@ https://www.morphtoken.com/
 
 
 You can also buy btc through Agora Desk http://agoradeska6jfxpf.onion
-
 After you obtain a small amount of bitcoin, you can then buy more BTC on BISQ https://bisq.network/
 
 
 Here is an aggregated list of more p2p exchanges (some require KYC)
-
 https://github.com/cointastical/P2P-Trading-Exchanges/
 
-
-
-Great resource for obtaining BTC without KYC
-https://bitcoinqna.github.io/noKYConly/
-
-
-
-
-Bitcoin mining to obtain non-kyc Bitcoin
-https://diverterbtc.keybase.pub/Mining%20for%20the%20Streets%20(4)%20(1).pdf
 
 
 
