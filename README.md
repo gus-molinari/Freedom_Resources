@@ -43,6 +43,7 @@ Don't stand around and talk about it. Act. You don't need to worry about convert
 - http://www.dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/wiki/DoNot    Tips on remaining anonymous
 - http://qubesosfasa4zl44o4tws22di6kepyzfeqv3tg4e3ztknltfxqrymdad.onion/      Qubes Operating System
 - http://www.dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/    Whonix Operating System
+- https://www.bitcoinqna.com  Simple bitcoin question and answers - includes guides
 
 
 
@@ -70,6 +71,12 @@ TOR obfuscates your browsing traffic. The browser's goal is to obfuscate your br
 
 Directory for a few sites including grey market places
 http://darkfailllnkf4vf.onion/
+
+## Open Hardware Systems
+
+Open source hardware- ARM devices: Pine64, Raspberry Pi 
+Open source hardware laptops including pine64 and system76 devices
+Open Source Firmware- coreboot
 
 
 ## Private Operating Systems
@@ -211,15 +218,13 @@ __Coinjoins__
 Why use a coinjoin service?
 You use coinjoinsr to obfuscate the path from where you personally obtained your bitcoin. There is plausible deniability created by mixing your Bitcoin UTXOs.
 
-Bitcoin Mixers - These services are all non-custodial
-Wasabi https://www.wasabiwallet.io/   
-Samourai Wallet https://samouraiwallet.com/     http://samouraivlsuevop.onion/
-JoinMarket https://github.com/JoinMarket-Org/joinmarket-clientserver You can make more Bitcoin by offering your Bitcoin up for liquidity in this mixing pool. 
+These services are all non-custodial
+- Wasabi https://www.wasabiwallet.io/   
+- Samourai Wallet https://samouraiwallet.com/     http://samouraivlsuevop.onion/
+Whirlpool FAQ https://www.bitcoinqna.com/post/whirlpool-faq
 
+- JoinMarket https://github.com/JoinMarket-Org/joinmarket-clientserver You earn Bitcoin by offering your Bitcoin up for liquidity in this mixing pool. 
 
-
-Open source hardware- Pine64, Raspberry Pi, Open source hardware laptops including system76, pine64 laptops
-Open Source Firmware- coreboot
 
 
 
